@@ -16,3 +16,15 @@
 
 # Commit Files with a message
 ~ git commit -m "finished landing page design"
+
+# to check git log 
+~ git log -4
+
+# to change branch name from master to main
+~ git branch -M main
+
+# to push commits for the first time from main branch
+~ git push -u origin main
+
+# to do normal commit push
+~ git push => git push origin master/main
